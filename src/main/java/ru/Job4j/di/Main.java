@@ -1,3 +1,4 @@
+package ru.Job4j.di;
 
 public class Main {
     public static void main(String[] args) {
