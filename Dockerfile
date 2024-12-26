@@ -1,4 +1,4 @@
-FROM maven:3.6.3-openjdk-21
+FROM maven:3.6.3-openjdk-17
 
 RUN mkdir job4j_di
 
